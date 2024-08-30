@@ -1,6 +1,6 @@
 proxmox_api_url = "https://hv01.roguestarr.com:8006/api2/json"  # Your Proxmox IP Address
 proxmox_node = "hv01"
-proxmox_api_token_id = "iac"  # API Token ID
+proxmox_api_token_id = "root@pam!iac"  # API Token ID
 proxmox_api_token_secret = "cf5ef657-618d-44eb-9a45-eba76a792027" # API Token
 
 proxmox_storage      = "local-lvm"
